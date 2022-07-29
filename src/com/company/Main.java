@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello Git :P");
         System.out.println(":)):");
         System.out.println("hello :(");
+        System.out.println("***");
     }
 }
